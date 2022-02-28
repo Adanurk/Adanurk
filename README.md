@@ -1,11 +1,11 @@
-# Hi there, I'm Kübra
+# Hi there, I'm Kübra 👋 
 
-## I'm a developer to-be
+## I'm a developer to-be 😸
 
 - 🌱 I’m currently learning CSS-SASS/SCSS, JavaScript, ReactJS
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learning more
-- ⚡ Fun fact: I love nature & being tourist!
+- ⚡ Fun fact: I love cats of all sizes, nature & being tourist!
 
 ### Connect with me:
 
