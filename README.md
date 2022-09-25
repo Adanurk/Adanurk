@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kübra-gümüssoy-21b9251b6)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kübra-gümüssoy-21b9251b6)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kubra-gmssy)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kubra-gmssy)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
