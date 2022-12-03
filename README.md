@@ -2,9 +2,9 @@
 
 ## I'm a developer to-be 😸
 
-- 🌱 I’m currently learning CSS-SASS/SCSS, JavaScript, ReactJS
+- 🌱 I’m currently working on a full stack website project by using all MERN stack.
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learning more
+- 🥅 2023 Goals: Learn more & create more!
 - ⚡ Fun fact: I love cats of all sizes, nature & being tourist!
 
 ### Connect with me:
