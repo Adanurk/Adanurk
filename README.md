@@ -1,6 +1,6 @@
 # Hi there, I'm Kübra 👋 
 
-## I'm a developer to-be 😸
+## I'm a developer & professional learner 😸
 
 - 🌱 I’m currently working on a full stack website project by using all MERN stack.
 - 👯 I’m looking to collaborate with other developers
