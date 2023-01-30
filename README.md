@@ -2,7 +2,7 @@
 
 ## I'm a jr developer & professional learner 😸
 
-- 🌱 I’m currently working on a full stack website project by using all MERN stack.
+- 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn more & create more!
 - ⚡ Fun fact: I love cats of all sizes, nature & being tourist!
