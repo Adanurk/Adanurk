@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more & create more!
+- 🥅 2024 Goals: Learn more & create more!
 - ⚡ Fun fact: I love cats of all sizes, nature & being tourist!
 
 ### Connect with me:
